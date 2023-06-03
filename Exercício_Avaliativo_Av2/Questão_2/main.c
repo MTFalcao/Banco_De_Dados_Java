@@ -94,7 +94,7 @@ int main()
             printf("[3]- Imprimir maior elemento da fila\n");
             printf("[4]- Imprimir menor elemento da fila\n");
             printf("[5]- Imprimir Fila\n");
-            printf("[6]- Limpar pilha\n");
+            printf("[6]- Limpar Fila\n");
             printf("[0]- Sair\n");
             printf("-> ");
             scanf("%d",&num_F);
