@@ -25,3 +25,5 @@ int main(){
 	printf("\n Sua idade em dias é : %d", sub);
 	return 0;
 }        
+
+/* Exercício feito em 07/04/22 */
