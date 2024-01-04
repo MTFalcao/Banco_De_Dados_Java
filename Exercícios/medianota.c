@@ -19,3 +19,5 @@ int main()
 	printf("Sua media foi %d e voce nao passou, Estude mais para a recuperacao", md);
 }
 }
+
+/* Exercício feito em 22/04/22 */
