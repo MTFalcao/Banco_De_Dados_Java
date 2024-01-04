@@ -15,3 +15,5 @@ int main()
 	sub = a- b;
 	printf("\n O resultado da subtracao realizada foi: %d", sub);
 	}
+
+/* Exercício feito em 22/04/22 */
